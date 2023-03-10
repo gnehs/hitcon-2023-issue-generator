@@ -193,7 +193,7 @@ export default {
         '公關': ['ws23'],
         '宣傳': ['hazelOxO'],
         '行政': ['leaftseng'],
-        '議程': ['magikarp0831'],
+        '議程': ['mag1karp'],
         '形象': ['tony780808'],
         '系統開發': ['gnehs'],
         '攝影': ['jerryhsu066'],
