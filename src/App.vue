@@ -199,9 +199,9 @@ export default {
         '攝影': ['jerryhsu066'],
         '翻譯': ['RSChiang'],
         '場務': ['an22003937'],
-        '活動': [],
+        '活動': ['rwq987654321000'],
         '財務': [],
-        '資訊設施': [],
+        '資訊設施': ['Sciuridae'],
       },
       options: {
         autoAssign: true,
