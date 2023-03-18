@@ -18,6 +18,12 @@ import 'prismjs/components/prism-json';
 
 VMdEditor.use(vuepressTheme, {
   Prism,
+  extend(md) {
+    // https://github.com/markdown-it/markdown-it
+    md.set({
+      breaks: false
+    })
+  },
 });
 
 
