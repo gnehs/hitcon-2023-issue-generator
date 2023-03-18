@@ -200,7 +200,7 @@ export default {
         '翻譯': ['RSChiang'],
         '場務': ['an22003937'],
         '活動': ['rwq987654321000'],
-        '財務': [],
+        '財務': ['KuroseAto'],
         '資訊設施': ['Sciuridae'],
       },
       options: {
